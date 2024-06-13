@@ -1,4 +1,4 @@
-class Solution
+class Solution//남윤호
 {
     public int solution(int hp)
     {
